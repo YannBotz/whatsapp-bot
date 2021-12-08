@@ -49,7 +49,7 @@ after start it you need to scan the qr
 ### Contact me
 
 - [TELEGRAM](https://t.me/justpiple)
-- [WHATSAPP](http://wa.me/62813309603730)
+- [WHATSAPP](http://wa.me/62831035929546)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
 
 
