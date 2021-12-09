@@ -1,7 +1,7 @@
 {	
 	"prefix": "multi", 
 	"defaultSessionName": "bot", 
-	"zeksKey": "apikey",
+	"zeksKey": "zeksapikey",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
